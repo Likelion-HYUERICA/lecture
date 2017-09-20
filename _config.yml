@@ -6,8 +6,8 @@ paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Jeewoo Yoon
+  url:        https://yoonjeewoo.github.io
 
 # Gems
 gems:
